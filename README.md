@@ -1,4 +1,6 @@
+
 ## Muscle Fiber Simulation
+<img src="https://github.com/Cannon-Lab/Muscle_Fiber_Simulation/blob/main/images/Muscle_Fiber_Sim.png" width="486" height="337">
 Simulate electrical properties of skeletal muscle.
 
 Original Model: &nbsp;&nbsp;&nbsp;&nbsp; Cannon et al. **Biophys J** 65:270-288, 1993 <br>
