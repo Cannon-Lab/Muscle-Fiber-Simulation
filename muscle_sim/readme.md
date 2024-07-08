@@ -1,4 +1,4 @@
-## Muscle_Sim_V3.3.exe
+## Muscle_Sim_V3.5.exe
 
 * Download the exe, bmp, xlsx, and font subfolder into any location.
 * No installation procedure or registry edit is required.
