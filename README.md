@@ -3,7 +3,7 @@ Simulate electrical properties of skeletal muscle.
 
 Original Model: &nbsp;&nbsp;&nbsp;&nbsp; Cannon et al. **Biophys J** 65:270-288, 1993 <br>
 
-Currrent Model: &nbsp;&nbsp;&nbsp; 2024-July. &nbsp;&nbsp;&nbsp; (see *Docs* for details)
+Currrent Model: &nbsp;&nbsp;&nbsp; 2024-July. &nbsp;&nbsp;&nbsp; (see [*Simulated Muscle Fiber*](https://github.com/Cannon-Lab/Muscle_Fiber_Simulation/blob/main/docs/Simulated%20Muscle%20Fiber.pdf) for details)
 
 - Two membrane compartments: sarcolemma and transverse tubule <br>
    T-tubule is a single, lumped compartment, not a radial shell <br>
